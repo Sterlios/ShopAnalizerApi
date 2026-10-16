@@ -1,5 +1,5 @@
-using Template.Application.Extensions;
-using Template.Infrastructure.Extensions;
+using ShopAnalizer.Application.Extensions;
+using ShopAnalizer.Infrastructure.Extensions;
 
 var builder = WebApplication.CreateBuilder(args);
 

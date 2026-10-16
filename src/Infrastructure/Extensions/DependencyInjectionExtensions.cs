@@ -1,6 +1,6 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
 
-namespace Template.Infrastructure.Extensions;
+namespace ShopAnalizer.Infrastructure.Extensions;
 
 public static class DependencyInjectionExtensions
 {
