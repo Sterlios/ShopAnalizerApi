@@ -7,8 +7,4 @@
       <RootNamespace>ShopAnalizer.Domain</RootNamespace>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Models\" />
-  </ItemGroup>
-
 </Project>
